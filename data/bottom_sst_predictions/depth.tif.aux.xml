@@ -1,0 +1,12 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>elevation</Description>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">80</MDI>
+      <MDI key="STATISTICS_MEAN">20.567715246724</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">18.321762066482</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">41.07</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
