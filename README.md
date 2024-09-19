@@ -1,4 +1,5 @@
-# HK_ThermalRefugia
+# Hong Kong Coral Thermal Refugia Spatial Analysis
+
 Study to understand thermocline in Hong Kong waters and identify refugia hope spots for corals
 
 
